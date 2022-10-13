@@ -12,8 +12,8 @@
 
 <channel>
 	<title>My WordPress</title>
-	<atom:link href="http://https://phamkhoa18.github.io/mywordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://phamkhoa18.github.io/mywordpress</link>
+	<atom:link href="https://https://phamkhoa18.github.io/mywordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://phamkhoa18.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 12 Oct 2022 15:30:54 +0000</lastBuildDate>
 	<language>vi</language>
