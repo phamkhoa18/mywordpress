@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Bình luận cho My WordPress	</title>
-	<atom:link href="https://https://phamkhoa18.github.io/mywordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://phamkhoa18.github.io/mywordpress</link>
+	<atom:link href="https://phamkhoa18.github.io/mywordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://phamkhoa18.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 19 Oct 2022 03:09:23 +0000</lastBuildDate>
 	<sy:updatePeriod>
